@@ -52,16 +52,12 @@ The raw data was cleaned using Python:
 - State-wise profit heat map
 - Profit margin analysis
 
-### 4. Geographic Analysis
-- Interactive map of Sales by State
-- Sales by Region pie chart
-
-### 5. Customer & Segment Insights
+### 4. Customer & Segment Insights
 - Sales by Segment
 - Repeat vs. New Customers (DAX)
 - Top customers by order value
 
-### 6. Shipping & Logistics
+### 5. Shipping & Logistics
 - Ship mode efficiency
 - Avg. shipping delay
 - Shipping trends over time
